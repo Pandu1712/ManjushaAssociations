@@ -6,17 +6,17 @@ const Hero = () => {
 
   const slides = [
     {
-      image: 'https://images.pexels.com/photos/3408354/pexels-photo-3408354.jpeg?auto=compress&cs=tinysrgb&w=1600',
+      image: 'https://res.cloudinary.com/djzeftojt/image/upload/v1767703376/WhatsApp_Image_2026-01-05_at_22.19.53_xl5izi.jpg',
       title: 'Traditional Temple Architecture',
       subtitle: 'Creating Divine Spaces with Sacred Precision'
     },
     {
-      image: 'https://images.pexels.com/photos/2166711/pexels-photo-2166711.jpeg?auto=compress&cs=tinysrgb&w=1600',
+      image: 'https://res.cloudinary.com/djzeftojt/image/upload/v1767703321/WhatsApp_Image_2026-01-05_at_22.20.06_j4q4cf.jpg',
       title: 'Exquisite Stone Carving',
       subtitle: 'Masterful Craftsmanship in Every Detail'
     },
     {
-      image: 'https://images.pexels.com/photos/3862379/pexels-photo-3862379.jpeg?auto=compress&cs=tinysrgb&w=1600',
+      image: 'https://res.cloudinary.com/djzeftojt/image/upload/v1767703314/WhatsApp_Image_2026-01-05_at_22.20.13_aqoh98.jpg',
       title: 'Sacred Sculptures',
       subtitle: 'Bringing Divinity to Life Through Art'
     }
